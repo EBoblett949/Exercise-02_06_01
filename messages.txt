@@ -1,0 +1,2 @@
+string question~Eli Boblett~Which string function would you use to determine if an essay keyed into a text area box exceeds the maximum number of words allowed?
+sending mail with php~Eli boblett~What are the 3 arguments of the mail function?
